@@ -1,5 +1,6 @@
 #include "Copter.h"
 //test1
+//HAHA
 #ifdef USERHOOK_INIT
 void Copter::userhook_init()
 {
